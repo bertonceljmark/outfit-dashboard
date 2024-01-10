@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "dashboard-frontend",
+      "path": "apps/dashboard-frontend"
+    },
+    {
+      "name": "dashboard-backend",
+      "path": "apps/dashboard-backend"
+    }
+  ],
+  "settings": {
+    "jest.disabledWorkspaceFolders": ["outfit-dashboard"]
+  }
+}
